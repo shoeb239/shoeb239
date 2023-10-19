@@ -1,12 +1,22 @@
-<h1 align="center">Hi, I'm Muhammad Shoeb</h1>
-<h3 align="center">Certified PHP and Laravel Developer with 15 years of experience in building scalable, maintainable, and robust web applications (especially SaaS projects) using PHP, MySQL, Laravel and related technologies. To see my profile in detail, I recommend looking at my LinkedIn profile.</h3>
+### Hi there 👋, my name is Muhammad Shoeb
+#### Senior Full Stack PHP/Laravel Developer with 15+ Years of Experience
+As a highly experienced PHP developer with a strong technical background in web development, I specialize in PHP, Laravel, MySQL, and other relevant technologies. With over 15 years of experience, I have successfully designed and built a wide range of web applications, from small-scale projects to large-scale enterprise applications.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/mshoeb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mshoeb" height="30" width="40" /></a>
-</p>
+My core skills include:
+- Back-end: PHP, Laravel, Zend Framework
+- Database: MySQL, Redis
+- Front-end: JavaScript, jQuery, VueJs, Backbone.js, AJAX, JSON, XML, HTML5, CSS3, Bootstrap, Tailwind CSS, Blade
+- Tools: Git, SVN, Jira, Trello, Asana, Slack, Laravel Forge, Composer, Vagrant, Docker, AWS, Agile, Scrum, Webpack etc.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+My Certifications:
+- Laravel Developer Certification, 2018 
+- Zend PHP Certification, 2013
+- Zend Framework Certification, 2009
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shoeb239&" alt="shoeb239" /></p>
+Feel free to reach out to discuss potential collaborations or if you have any questions. I am enthusiastic about Laravel development and dedicated to delivering top-notch solutions.
+
+Thank you for considering my profile. I look forward to the opportunity to work together!
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/shoeb239)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mshoeb/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/laravel.svg' alt='laravel' height='40'>](https://exam.laravelcert.com/is/muhammad-shoeb/certified-since/2018-06-15)  
+
